@@ -1,0 +1,63 @@
+{
+  "active_positions": {
+    "SANDUSDT": {
+      "pair": "SANDUSDT",
+      "d": -1,
+      "tf": "4H",
+      "entry_type": "ADOPTED",
+      "qty": 122.0,
+      "lev": 12.0,
+      "safe_pct": 0.05833333333333333,
+      "entry": 0.05248,
+      "curr_price": 0.04744,
+      "stop": 0.0497,
+      "rdist": 0.003,
+      "be": true,
+      "sector_unlocked": true,
+      "open_time": 1792905000.0924273,
+      "conv_rate": 102.0
+    },
+    "ATOMUSDT": {
+      "pair": "ATOMUSDT",
+      "d": -1,
+      "tf": "4H",
+      "entry_type": "ADOPTED",
+      "qty": 3.9,
+      "lev": 12.0,
+      "safe_pct": 0.05833333333333333,
+      "entry": 1.655,
+      "curr_price": 1.637,
+      "stop": 1.6975,
+      "rdist": 0.0965,
+      "be": false,
+      "sector_unlocked": false,
+      "open_time": 1792905000.2494261,
+      "conv_rate": 102.0
+    },
+    "IOTAUSDT": {
+      "pair": "IOTAUSDT",
+      "d": -1,
+      "tf": "4H",
+      "entry_type": "DONCHIAN",
+      "qty": 152.0,
+      "lev": 14,
+      "safe_pct": 0.049999999999999996,
+      "entry": 0.04195,
+      "curr_price": 0.04202,
+      "stop": 0.043,
+      "rdist": 0.0021,
+      "be": false,
+      "sector_unlocked": false,
+      "open_time": 1792987227.3627355,
+      "conv_rate": 102.0
+    }
+  },
+  "equity": 247.24,
+  "peak_equity": 248.18,
+  "day_start_equity": 247.24,
+  "last_ist_day": "2026-10-29",
+  "last_scanned_bar": "2026-10-28_16:00_UTC",
+  "daily_pnl": 0.0,
+  "halted": false,
+  "cooldowns": {}
+}
